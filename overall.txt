@@ -1,0 +1,25 @@
+overall contents
+
+1. Arm control
+- for hardware arm control (HandS)
+- Sim2real, digital twin, Imitation learning
+
+2. ros2_ws
+- HandS project folder
+- packges:vision60 control, camera, environment for RL
+
+3. lab_training
+- RILAB internship
+- camera calibration, aruco tag, turtlebot, SLAM
+
+
+4. what's installed
+- ROS2 humble
+- pytorch
+- opencv
+- gazebo
+- turtlebot series
+
+orders?
+ros2_ws -> husky, drone -> arm control -> lab training -> v60 workspace
+no important or specific dependencies!

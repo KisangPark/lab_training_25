@@ -1,0 +1,11 @@
+{
+  "package_name": "turtlebot3_msgs",
+  "non_idl_tuples": [
+    "/home/kisangpark/lab_training/src/turtlebot3_msgs:msg/SensorState.msg",
+    "/home/kisangpark/lab_training/src/turtlebot3_msgs:msg/Sound.msg",
+    "/home/kisangpark/lab_training/src/turtlebot3_msgs:msg/VersionInfo.msg",
+    "/home/kisangpark/lab_training/src/turtlebot3_msgs:srv/Sound.srv",
+    "/home/kisangpark/lab_training/src/turtlebot3_msgs:srv/Dqn.srv",
+    "/home/kisangpark/lab_training/src/turtlebot3_msgs:action/Patrol.action"
+  ]
+}

@@ -1,0 +1,119 @@
+[0.000000] (-) TimerEvent: {}
+[0.000684] (-) JobUnselected: {'identifier': 'SLAM'}
+[0.000916] (-) JobUnselected: {'identifier': 'turtlebot3'}
+[0.001133] (-) JobUnselected: {'identifier': 'turtlebot3_bringup'}
+[0.001222] (-) JobUnselected: {'identifier': 'turtlebot3_cartographer'}
+[0.001291] (-) JobUnselected: {'identifier': 'turtlebot3_description'}
+[0.001492] (-) JobUnselected: {'identifier': 'turtlebot3_example'}
+[0.001753] (-) JobUnselected: {'identifier': 'turtlebot3_fake_node'}
+[0.001916] (-) JobUnselected: {'identifier': 'turtlebot3_gazebo'}
+[0.002124] (-) JobUnselected: {'identifier': 'turtlebot3_msgs'}
+[0.002274] (-) JobUnselected: {'identifier': 'turtlebot3_navigation2'}
+[0.002499] (-) JobUnselected: {'identifier': 'turtlebot3_node'}
+[0.002704] (-) JobUnselected: {'identifier': 'turtlebot3_simulations'}
+[0.002867] (-) JobUnselected: {'identifier': 'turtlebot3_teleop'}
+[0.003078] (week3) JobQueued: {'identifier': 'week3', 'dependencies': OrderedDict()}
+[0.003249] (week3) JobStarted: {'identifier': 'week3'}
+[0.097448] (-) TimerEvent: {}
+[0.201233] (-) TimerEvent: {}
+[0.302472] (-) TimerEvent: {}
+[0.403732] (-) TimerEvent: {}
+[0.504865] (-) TimerEvent: {}
+[0.605809] (-) TimerEvent: {}
+[0.707550] (-) TimerEvent: {}
+[0.809381] (-) TimerEvent: {}
+[0.909986] (-) TimerEvent: {}
+[1.010822] (-) TimerEvent: {}
+[1.114267] (-) TimerEvent: {}
+[1.216378] (-) TimerEvent: {}
+[1.317977] (-) TimerEvent: {}
+[1.419489] (-) TimerEvent: {}
+[1.520135] (-) TimerEvent: {}
+[1.621994] (-) TimerEvent: {}
+[1.723717] (-) TimerEvent: {}
+[1.824783] (-) TimerEvent: {}
+[1.925927] (-) TimerEvent: {}
+[2.027092] (-) TimerEvent: {}
+[2.128675] (-) TimerEvent: {}
+[2.229792] (-) TimerEvent: {}
+[2.331334] (-) TimerEvent: {}
+[2.432462] (-) TimerEvent: {}
+[2.533489] (-) TimerEvent: {}
+[2.634732] (-) TimerEvent: {}
+[2.735885] (-) TimerEvent: {}
+[2.837190] (-) TimerEvent: {}
+[2.938727] (-) TimerEvent: {}
+[3.040921] (-) TimerEvent: {}
+[3.142058] (-) TimerEvent: {}
+[3.243204] (-) TimerEvent: {}
+[3.344332] (-) TimerEvent: {}
+[3.445517] (-) TimerEvent: {}
+[3.546584] (-) TimerEvent: {}
+[3.649664] (-) TimerEvent: {}
+[3.751903] (-) TimerEvent: {}
+[3.853597] (-) TimerEvent: {}
+[3.856708] (week3) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/week3', 'build', '--build-base', '/home/kisangpark/lab_training/build/week3/build', 'install', '--record', '/home/kisangpark/lab_training/build/week3/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/kisangpark/lab_training/src/week3', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_US:', 'USER': 'kisangpark', 'LC_TIME': 'ko_KR.UTF-8', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/kisangpark', 'OLDPWD': '/home/kisangpark', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'ko_KR.UTF-8', 'SYSTEMD_EXEC_PID': '1693', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'humble', 'LOGNAME': 'kisangpark', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'kisangpark', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/home/kisangpark/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/ROS2:@/tmp/.ICE-unix/1668,unix/ROS2:/tmp/.ICE-unix/1668', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'ko_KR.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/86a79400_d8be_45f8_877d_2c9f5817bb11', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'ko_KR.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.Y5AF32', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.102', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'ko_KR.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'ko_KR.UTF-8', 'LC_IDENTIFICATION': 'ko_KR.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/kisangpark/lab_training/build/week3', 'TURTLEBOT3_MODEL': 'burger', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/kisangpark/lab_training/build/week3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'ko_KR.UTF-8', 'LC_PAPER': 'ko_KR.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[3.954885] (-) TimerEvent: {}
+[4.055759] (-) TimerEvent: {}
+[4.157092] (-) TimerEvent: {}
+[4.258682] (-) TimerEvent: {}
+[4.359552] (-) TimerEvent: {}
+[4.460903] (-) TimerEvent: {}
+[4.561991] (-) TimerEvent: {}
+[4.663383] (-) TimerEvent: {}
+[4.764676] (-) TimerEvent: {}
+[4.865871] (-) TimerEvent: {}
+[4.966632] (-) TimerEvent: {}
+[5.067613] (-) TimerEvent: {}
+[5.168270] (-) TimerEvent: {}
+[5.204521] (week3) StdoutLine: {'line': b'running egg_info\n'}
+[5.268602] (-) TimerEvent: {}
+[5.277837] (week3) StdoutLine: {'line': b'writing ../../build/week3/week3.egg-info/PKG-INFO\n'}
+[5.280874] (week3) StdoutLine: {'line': b'writing dependency_links to ../../build/week3/week3.egg-info/dependency_links.txt\n'}
+[5.281709] (week3) StdoutLine: {'line': b'writing entry points to ../../build/week3/week3.egg-info/entry_points.txt\n'}
+[5.282917] (week3) StdoutLine: {'line': b'writing requirements to ../../build/week3/week3.egg-info/requires.txt\n'}
+[5.284236] (week3) StdoutLine: {'line': b'writing top-level names to ../../build/week3/week3.egg-info/top_level.txt\n'}
+[5.369395] (-) TimerEvent: {}
+[5.470609] (-) TimerEvent: {}
+[5.473011] (week3) StdoutLine: {'line': b"reading manifest file '../../build/week3/week3.egg-info/SOURCES.txt'\n"}
+[5.476742] (week3) StdoutLine: {'line': b"writing manifest file '../../build/week3/week3.egg-info/SOURCES.txt'\n"}
+[5.478034] (week3) StdoutLine: {'line': b'running build\n'}
+[5.478690] (week3) StdoutLine: {'line': b'running build_py\n'}
+[5.479865] (week3) StdoutLine: {'line': b'copying week3/RRT_star_2.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3\n'}
+[5.482380] (week3) StdoutLine: {'line': b'copying week3/pure_pursuit.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3\n'}
+[5.483044] (week3) StdoutLine: {'line': b'copying week3/save_costmap.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3\n'}
+[5.483442] (week3) StdoutLine: {'line': b'copying week3/rrt_debug.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3\n'}
+[5.484472] (week3) StdoutLine: {'line': b'copying week3/__init__.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3\n'}
+[5.484758] (week3) StdoutLine: {'line': b'copying week3/RRT_star.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3\n'}
+[5.484931] (week3) StdoutLine: {'line': b'running install\n'}
+[5.507777] (week3) StdoutLine: {'line': b'running install_lib\n'}
+[5.570941] (-) TimerEvent: {}
+[5.594947] (week3) StdoutLine: {'line': b'copying /home/kisangpark/lab_training/build/week3/build/lib/week3/rrt_debug.py -> /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3\n'}
+[5.599939] (week3) StdoutLine: {'line': b'byte-compiling /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3/rrt_debug.py to rrt_debug.cpython-310.pyc\n'}
+[5.609868] (week3) StdoutLine: {'line': b'running install_data\n'}
+[5.611501] (week3) StdoutLine: {'line': b'copying resource/week3 -> /home/kisangpark/lab_training/install/week3/share/ament_index/resource_index/packages\n'}
+[5.612495] (week3) StdoutLine: {'line': b'copying package.xml -> /home/kisangpark/lab_training/install/week3/share/week3\n'}
+[5.615100] (week3) StdoutLine: {'line': b'copying launch/turtlebot.launch.py -> /home/kisangpark/lab_training/install/week3/share/week3/launch\n'}
+[5.615893] (week3) StdoutLine: {'line': b'running install_egg_info\n'}
+[5.671705] (-) TimerEvent: {}
+[5.705935] (week3) StdoutLine: {'line': b"removing '/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[5.707899] (week3) StdoutLine: {'line': b'Copying ../../build/week3/week3.egg-info to /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3-0.0.0-py3.10.egg-info\n'}
+[5.714927] (week3) StdoutLine: {'line': b'running install_scripts\n'}
+[5.772617] (-) TimerEvent: {}
+[5.873708] (-) TimerEvent: {}
+[5.974703] (-) TimerEvent: {}
+[6.076075] (-) TimerEvent: {}
+[6.177068] (-) TimerEvent: {}
+[6.278427] (-) TimerEvent: {}
+[6.382652] (-) TimerEvent: {}
+[6.437348] (week3) StdoutLine: {'line': b'Installing pure_pursuit script to /home/kisangpark/lab_training/install/week3/lib/week3\n'}
+[6.438724] (week3) StdoutLine: {'line': b'Installing rrt_debug script to /home/kisangpark/lab_training/install/week3/lib/week3\n'}
+[6.440349] (week3) StdoutLine: {'line': b'Installing rrt_star script to /home/kisangpark/lab_training/install/week3/lib/week3\n'}
+[6.441744] (week3) StdoutLine: {'line': b'Installing rrt_star_2 script to /home/kisangpark/lab_training/install/week3/lib/week3\n'}
+[6.443142] (week3) StdoutLine: {'line': b'Installing save_costmap script to /home/kisangpark/lab_training/install/week3/lib/week3\n'}
+[6.446612] (week3) StdoutLine: {'line': b"writing list of installed files to '/home/kisangpark/lab_training/build/week3/install.log'\n"}
+[6.483199] (-) TimerEvent: {}
+[6.564059] (week3) CommandEnded: {'returncode': 0}
+[6.587184] (-) TimerEvent: {}
+[6.654275] (week3) JobEnded: {'identifier': 'week3', 'rc': 0}
+[6.657313] (-) EventReactorShutdown: {}

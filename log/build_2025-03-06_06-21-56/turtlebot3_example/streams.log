@@ -1,0 +1,20 @@
+[5.416s] Invoking command in '/home/kisangpark/lab_training/build/turtlebot3_example': AMENT_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs LD_LIBRARY_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kisangpark/lab_training/build/turtlebot3_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/turtlebot3_example/lib/python3.10/site-packages:/home/kisangpark/lab_training/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/turtlebot3_example/build --no-deps symlink_data
+[7.668s] running develop
+[8.743s] running egg_info
+[8.857s] writing turtlebot3_example.egg-info/PKG-INFO
+[8.863s] writing dependency_links to turtlebot3_example.egg-info/dependency_links.txt
+[8.868s] writing entry points to turtlebot3_example.egg-info/entry_points.txt
+[8.877s] writing requirements to turtlebot3_example.egg-info/requires.txt
+[8.877s] writing top-level names to turtlebot3_example.egg-info/top_level.txt
+[9.023s] reading manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[9.025s] writing manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[9.148s] running build_ext
+[9.148s] Creating /home/kisangpark/lab_training/install/turtlebot3_example/lib/python3.10/site-packages/turtlebot3-example.egg-link (link to .)
+[9.148s] Installing turtlebot3_obstacle_detection script to /home/kisangpark/lab_training/install/turtlebot3_example/lib/turtlebot3_example
+[9.152s] Installing turtlebot3_patrol_client script to /home/kisangpark/lab_training/install/turtlebot3_example/lib/turtlebot3_example
+[9.153s] Installing turtlebot3_patrol_server script to /home/kisangpark/lab_training/install/turtlebot3_example/lib/turtlebot3_example
+[9.159s] Installing turtlebot3_position_control script to /home/kisangpark/lab_training/install/turtlebot3_example/lib/turtlebot3_example
+[9.165s] 
+[9.166s] Installed /home/kisangpark/lab_training/build/turtlebot3_example
+[9.166s] running symlink_data
+[9.340s] Invoked command in '/home/kisangpark/lab_training/build/turtlebot3_example' returned '0': AMENT_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs LD_LIBRARY_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kisangpark/lab_training/build/turtlebot3_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/turtlebot3_example/lib/python3.10/site-packages:/home/kisangpark/lab_training/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/turtlebot3_example/build --no-deps symlink_data

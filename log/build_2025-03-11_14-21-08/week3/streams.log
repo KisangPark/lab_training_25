@@ -1,0 +1,21 @@
+[4.367s] Invoking command in '/home/kisangpark/lab_training/build/week3': PYTHONPATH=/home/kisangpark/lab_training/build/week3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/week3/build --no-deps symlink_data
+[6.267s] running develop
+[7.549s] running egg_info
+[7.658s] writing week3.egg-info/PKG-INFO
+[7.659s] writing dependency_links to week3.egg-info/dependency_links.txt
+[7.661s] writing entry points to week3.egg-info/entry_points.txt
+[7.662s] writing requirements to week3.egg-info/requires.txt
+[7.664s] writing top-level names to week3.egg-info/top_level.txt
+[7.919s] reading manifest file 'week3.egg-info/SOURCES.txt'
+[7.926s] writing manifest file 'week3.egg-info/SOURCES.txt'
+[8.061s] running build_ext
+[8.067s] Creating /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3.egg-link (link to .)
+[8.070s] Installing pure_pursuit script to /home/kisangpark/lab_training/install/week3/lib/week3
+[8.071s] Installing rrt_star script to /home/kisangpark/lab_training/install/week3/lib/week3
+[8.072s] Installing rrt_star_2 script to /home/kisangpark/lab_training/install/week3/lib/week3
+[8.073s] Installing save_costmap script to /home/kisangpark/lab_training/install/week3/lib/week3
+[8.075s] 
+[8.077s] Installed /home/kisangpark/lab_training/build/week3
+[8.079s] running symlink_data
+[8.079s] symbolically linking /home/kisangpark/lab_training/build/week3/launch/turtlebot.launch.py -> /home/kisangpark/lab_training/install/week3/share/week3/launch
+[8.284s] Invoked command in '/home/kisangpark/lab_training/build/week3' returned '0': PYTHONPATH=/home/kisangpark/lab_training/build/week3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/week3/build --no-deps symlink_data

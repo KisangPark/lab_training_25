@@ -1,0 +1,43 @@
+[4.029s] Invoking command in '/home/kisangpark/lab_training/src/week3': PYTHONPATH=/home/kisangpark/lab_training/build/week3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/week3 build --build-base /home/kisangpark/lab_training/build/week3/build install --record /home/kisangpark/lab_training/build/week3/install.log --single-version-externally-managed install_data
+[5.254s] running egg_info
+[5.330s] writing ../../build/week3/week3.egg-info/PKG-INFO
+[5.332s] writing dependency_links to ../../build/week3/week3.egg-info/dependency_links.txt
+[5.333s] writing entry points to ../../build/week3/week3.egg-info/entry_points.txt
+[5.335s] writing requirements to ../../build/week3/week3.egg-info/requires.txt
+[5.336s] writing top-level names to ../../build/week3/week3.egg-info/top_level.txt
+[5.515s] reading manifest file '../../build/week3/week3.egg-info/SOURCES.txt'
+[5.522s] writing manifest file '../../build/week3/week3.egg-info/SOURCES.txt'
+[5.523s] running build
+[5.524s] running build_py
+[5.525s] copying week3/RRT_star_2.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+[5.528s] copying week3/pure_pursuit.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+[5.529s] copying week3/save_costmap.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+[5.529s] copying week3/rrt_debug.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+[5.530s] copying week3/__init__.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+[5.530s] copying week3/RRT_star.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+[5.532s] running install
+[5.554s] running install_lib
+[5.639s] copying /home/kisangpark/lab_training/build/week3/build/lib/week3/RRT_star_2.py -> /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3
+[5.640s] copying /home/kisangpark/lab_training/build/week3/build/lib/week3/rrt_debug.py -> /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3
+[5.642s] byte-compiling /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3/RRT_star_2.py to RRT_star_2.cpython-310.pyc
+[5.650s] byte-compiling /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3/rrt_debug.py to rrt_debug.cpython-310.pyc
+[5.657s]   File "/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3/rrt_debug.py", line 266
+[5.658s]     here, draw line of steering with length 1
+[5.658s]                ^^^^
+[5.658s] SyntaxError: invalid syntax
+[5.658s] 
+[5.659s] running install_data
+[5.660s] copying resource/week3 -> /home/kisangpark/lab_training/install/week3/share/ament_index/resource_index/packages
+[5.660s] copying package.xml -> /home/kisangpark/lab_training/install/week3/share/week3
+[5.661s] copying launch/turtlebot.launch.py -> /home/kisangpark/lab_training/install/week3/share/week3/launch
+[5.661s] running install_egg_info
+[5.756s] removing '/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3-0.0.0-py3.10.egg-info' (and everything under it)
+[5.758s] Copying ../../build/week3/week3.egg-info to /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3-0.0.0-py3.10.egg-info
+[5.761s] running install_scripts
+[6.897s] Installing pure_pursuit script to /home/kisangpark/lab_training/install/week3/lib/week3
+[6.899s] Installing rrt_debug script to /home/kisangpark/lab_training/install/week3/lib/week3
+[6.899s] Installing rrt_star script to /home/kisangpark/lab_training/install/week3/lib/week3
+[6.899s] Installing rrt_star_2 script to /home/kisangpark/lab_training/install/week3/lib/week3
+[6.899s] Installing save_costmap script to /home/kisangpark/lab_training/install/week3/lib/week3
+[6.901s] writing list of installed files to '/home/kisangpark/lab_training/build/week3/install.log'
+[6.969s] Invoked command in '/home/kisangpark/lab_training/src/week3' returned '0': PYTHONPATH=/home/kisangpark/lab_training/build/week3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/week3 build --build-base /home/kisangpark/lab_training/build/week3/build install --record /home/kisangpark/lab_training/build/week3/install.log --single-version-externally-managed install_data

@@ -1,0 +1,20 @@
+running develop
+running egg_info
+writing week3.egg-info/PKG-INFO
+writing dependency_links to week3.egg-info/dependency_links.txt
+writing entry points to week3.egg-info/entry_points.txt
+writing requirements to week3.egg-info/requires.txt
+writing top-level names to week3.egg-info/top_level.txt
+reading manifest file 'week3.egg-info/SOURCES.txt'
+writing manifest file 'week3.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3.egg-link (link to .)
+Installing pure_pursuit script to /home/kisangpark/lab_training/install/week3/lib/week3
+Installing rrt_star script to /home/kisangpark/lab_training/install/week3/lib/week3
+Installing rrt_star_2 script to /home/kisangpark/lab_training/install/week3/lib/week3
+Installing save_costmap script to /home/kisangpark/lab_training/install/week3/lib/week3
+
+Installed /home/kisangpark/lab_training/build/week3
+running symlink_data
+symbolically linking /home/kisangpark/lab_training/build/week3/resource/week3 -> /home/kisangpark/lab_training/install/week3/share/ament_index/resource_index/packages
+symbolically linking /home/kisangpark/lab_training/build/week3/package.xml -> /home/kisangpark/lab_training/install/week3/share/week3

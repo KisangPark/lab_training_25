@@ -1,0 +1,17 @@
+[7.171s] Invoking command in '/home/kisangpark/lab_training/build/turtlebot3_teleop': PYTHONPATH=/home/kisangpark/lab_training/build/turtlebot3_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/turtlebot3_teleop/build --no-deps symlink_data
+[9.110s] running develop
+[10.408s] running egg_info
+[10.486s] writing turtlebot3_teleop.egg-info/PKG-INFO
+[10.496s] writing dependency_links to turtlebot3_teleop.egg-info/dependency_links.txt
+[10.497s] writing entry points to turtlebot3_teleop.egg-info/entry_points.txt
+[10.503s] writing requirements to turtlebot3_teleop.egg-info/requires.txt
+[10.504s] writing top-level names to turtlebot3_teleop.egg-info/top_level.txt
+[10.708s] reading manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[10.708s] writing manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[10.785s] running build_ext
+[10.785s] Creating /home/kisangpark/lab_training/install/turtlebot3_teleop/lib/python3.10/site-packages/turtlebot3-teleop.egg-link (link to .)
+[10.797s] Installing teleop_keyboard script to /home/kisangpark/lab_training/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[10.798s] 
+[10.798s] Installed /home/kisangpark/lab_training/build/turtlebot3_teleop
+[10.799s] running symlink_data
+[10.918s] Invoked command in '/home/kisangpark/lab_training/build/turtlebot3_teleop' returned '0': PYTHONPATH=/home/kisangpark/lab_training/build/turtlebot3_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/turtlebot3_teleop/build --no-deps symlink_data

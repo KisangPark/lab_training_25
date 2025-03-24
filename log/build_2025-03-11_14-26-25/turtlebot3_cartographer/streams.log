@@ -1,0 +1,25 @@
+[0.154s] Invoking command in '/home/kisangpark/lab_training/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kisangpark/lab_training/install/week3:/home/kisangpark/lab_training/install/turtlebot3_teleop:/home/kisangpark/lab_training/install/turtlebot3_example:/home/kisangpark/lab_training/install/SLAM:/opt/ros/humble /usr/bin/cmake --build /home/kisangpark/lab_training/build/turtlebot3_cartographer -- -j2 -l2
+[0.519s] Invoked command in '/home/kisangpark/lab_training/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kisangpark/lab_training/install/week3:/home/kisangpark/lab_training/install/turtlebot3_teleop:/home/kisangpark/lab_training/install/turtlebot3_example:/home/kisangpark/lab_training/install/SLAM:/opt/ros/humble /usr/bin/cmake --build /home/kisangpark/lab_training/build/turtlebot3_cartographer -- -j2 -l2
+[0.533s] Invoking command in '/home/kisangpark/lab_training/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kisangpark/lab_training/install/week3:/home/kisangpark/lab_training/install/turtlebot3_teleop:/home/kisangpark/lab_training/install/turtlebot3_example:/home/kisangpark/lab_training/install/SLAM:/opt/ros/humble /usr/bin/cmake --install /home/kisangpark/lab_training/build/turtlebot3_cartographer
+[0.593s] -- Install configuration: ""
+[0.604s] -- Execute custom install script
+[0.606s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua
+[0.609s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/cartographer.launch.py
+[0.611s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/occupancy_grid.launch.py
+[0.612s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz/tb3_cartographer.rviz
+[0.616s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/ament_index/resource_index/package_run_dependencies/turtlebot3_cartographer
+[0.620s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/ament_index/resource_index/parent_prefix_path/turtlebot3_cartographer
+[0.621s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.sh
+[0.623s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.dsv
+[0.623s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.sh
+[0.627s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.dsv
+[0.628s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.bash
+[0.630s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.sh
+[0.632s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.zsh
+[0.632s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.dsv
+[0.635s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.dsv
+[0.684s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/ament_index/resource_index/packages/turtlebot3_cartographer
+[0.687s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig.cmake
+[0.695s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig-version.cmake
+[0.696s] -- Up-to-date symlink: /home/kisangpark/lab_training/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.xml
+[0.719s] Invoked command in '/home/kisangpark/lab_training/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kisangpark/lab_training/install/week3:/home/kisangpark/lab_training/install/turtlebot3_teleop:/home/kisangpark/lab_training/install/turtlebot3_example:/home/kisangpark/lab_training/install/SLAM:/opt/ros/humble /usr/bin/cmake --install /home/kisangpark/lab_training/build/turtlebot3_cartographer

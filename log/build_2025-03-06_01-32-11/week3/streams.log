@@ -1,0 +1,22 @@
+[2.630s] Invoking command in '/home/kisangpark/lab_training/build/week3': PYTHONPATH=/home/kisangpark/lab_training/build/week3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/week3/build --no-deps symlink_data
+[3.863s] running develop
+[4.756s] running egg_info
+[4.758s] creating week3.egg-info
+[4.842s] writing week3.egg-info/PKG-INFO
+[4.858s] writing dependency_links to week3.egg-info/dependency_links.txt
+[4.859s] writing requirements to week3.egg-info/requires.txt
+[4.859s] writing top-level names to week3.egg-info/top_level.txt
+[4.859s] writing manifest file 'week3.egg-info/SOURCES.txt'
+[5.031s] reading manifest file 'week3.egg-info/SOURCES.txt'
+[5.034s] writing manifest file 'week3.egg-info/SOURCES.txt'
+[5.146s] running build_ext
+[5.148s] Creating /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3.egg-link (link to .)
+[5.155s] 
+[5.156s] Installed /home/kisangpark/lab_training/build/week3
+[5.156s] running symlink_data
+[5.157s] creating /home/kisangpark/lab_training/install/week3/share/ament_index
+[5.158s] creating /home/kisangpark/lab_training/install/week3/share/ament_index/resource_index
+[5.159s] creating /home/kisangpark/lab_training/install/week3/share/ament_index/resource_index/packages
+[5.160s] symbolically linking /home/kisangpark/lab_training/build/week3/resource/week3 -> /home/kisangpark/lab_training/install/week3/share/ament_index/resource_index/packages
+[5.161s] symbolically linking /home/kisangpark/lab_training/build/week3/package.xml -> /home/kisangpark/lab_training/install/week3/share/week3
+[5.276s] Invoked command in '/home/kisangpark/lab_training/build/week3' returned '0': PYTHONPATH=/home/kisangpark/lab_training/build/week3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/week3/build --no-deps symlink_data

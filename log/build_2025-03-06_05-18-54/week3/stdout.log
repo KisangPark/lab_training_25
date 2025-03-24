@@ -1,0 +1,39 @@
+running develop
+Removing /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3.egg-link (link to .)
+running egg_info
+writing ../../build/week3/week3.egg-info/PKG-INFO
+writing dependency_links to ../../build/week3/week3.egg-info/dependency_links.txt
+writing entry points to ../../build/week3/week3.egg-info/entry_points.txt
+writing requirements to ../../build/week3/week3.egg-info/requires.txt
+writing top-level names to ../../build/week3/week3.egg-info/top_level.txt
+reading manifest file '../../build/week3/week3.egg-info/SOURCES.txt'
+writing manifest file '../../build/week3/week3.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kisangpark/lab_training/build/week3/build
+creating /home/kisangpark/lab_training/build/week3/build/lib
+creating /home/kisangpark/lab_training/build/week3/build/lib/week3
+copying week3/pure_pursuit.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+copying week3/save_costmap.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+copying week3/__init__.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+copying week3/RRT_star.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+running install
+running install_lib
+creating /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3
+copying /home/kisangpark/lab_training/build/week3/build/lib/week3/pure_pursuit.py -> /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3
+copying /home/kisangpark/lab_training/build/week3/build/lib/week3/save_costmap.py -> /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3
+copying /home/kisangpark/lab_training/build/week3/build/lib/week3/__init__.py -> /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3
+copying /home/kisangpark/lab_training/build/week3/build/lib/week3/RRT_star.py -> /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3
+byte-compiling /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3/pure_pursuit.py to pure_pursuit.cpython-310.pyc
+byte-compiling /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3/save_costmap.py to save_costmap.cpython-310.pyc
+byte-compiling /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3/RRT_star.py to RRT_star.cpython-310.pyc
+running install_data
+copying resource/week3 -> /home/kisangpark/lab_training/install/week3/share/ament_index/resource_index/packages
+copying package.xml -> /home/kisangpark/lab_training/install/week3/share/week3
+creating /home/kisangpark/lab_training/install/week3/share/week3/launch
+running install_egg_info
+Copying ../../build/week3/week3.egg-info to /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3-0.0.0-py3.10.egg-info
+running install_scripts
+Installing save_costmap script to /home/kisangpark/lab_training/install/week3/lib/week3
+writing list of installed files to '/home/kisangpark/lab_training/build/week3/install.log'

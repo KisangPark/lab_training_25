@@ -1,0 +1,36 @@
+[1.959s] Invoking command in '/home/kisangpark/lab_training/src/week3': PYTHONPATH=/home/kisangpark/lab_training/build/week3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/week3 build --build-base /home/kisangpark/lab_training/build/week3/build install --record /home/kisangpark/lab_training/build/week3/install.log --single-version-externally-managed install_data
+[2.353s] running egg_info
+[2.402s] writing ../../build/week3/week3.egg-info/PKG-INFO
+[2.402s] writing dependency_links to ../../build/week3/week3.egg-info/dependency_links.txt
+[2.403s] writing entry points to ../../build/week3/week3.egg-info/entry_points.txt
+[2.403s] writing requirements to ../../build/week3/week3.egg-info/requires.txt
+[2.404s] writing top-level names to ../../build/week3/week3.egg-info/top_level.txt
+[2.467s] reading manifest file '../../build/week3/week3.egg-info/SOURCES.txt'
+[2.470s] writing manifest file '../../build/week3/week3.egg-info/SOURCES.txt'
+[2.471s] running build
+[2.471s] running build_py
+[2.472s] copying week3/RRT_star_2.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+[2.473s] copying week3/pure_pursuit.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+[2.473s] copying week3/save_costmap.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+[2.474s] copying week3/rrt_debug.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+[2.474s] copying week3/__init__.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+[2.475s] copying week3/RRT_star.py -> /home/kisangpark/lab_training/build/week3/build/lib/week3
+[2.476s] running install
+[2.493s] running install_lib
+[2.550s] copying /home/kisangpark/lab_training/build/week3/build/lib/week3/rrt_debug.py -> /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3
+[2.551s] byte-compiling /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3/rrt_debug.py to rrt_debug.cpython-310.pyc
+[2.558s] running install_data
+[2.560s] copying resource/week3 -> /home/kisangpark/lab_training/install/week3/share/ament_index/resource_index/packages
+[2.561s] copying package.xml -> /home/kisangpark/lab_training/install/week3/share/week3
+[2.561s] copying launch/turtlebot.launch.py -> /home/kisangpark/lab_training/install/week3/share/week3/launch
+[2.562s] running install_egg_info
+[2.612s] removing '/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3-0.0.0-py3.10.egg-info' (and everything under it)
+[2.613s] Copying ../../build/week3/week3.egg-info to /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3-0.0.0-py3.10.egg-info
+[2.616s] running install_scripts
+[2.800s] Installing pure_pursuit script to /home/kisangpark/lab_training/install/week3/lib/week3
+[2.801s] Installing rrt_debug script to /home/kisangpark/lab_training/install/week3/lib/week3
+[2.801s] Installing rrt_star script to /home/kisangpark/lab_training/install/week3/lib/week3
+[2.801s] Installing rrt_star_2 script to /home/kisangpark/lab_training/install/week3/lib/week3
+[2.801s] Installing save_costmap script to /home/kisangpark/lab_training/install/week3/lib/week3
+[2.803s] writing list of installed files to '/home/kisangpark/lab_training/build/week3/install.log'
+[2.845s] Invoked command in '/home/kisangpark/lab_training/src/week3' returned '0': PYTHONPATH=/home/kisangpark/lab_training/build/week3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/week3 build --build-base /home/kisangpark/lab_training/build/week3/build install --record /home/kisangpark/lab_training/build/week3/install.log --single-version-externally-managed install_data

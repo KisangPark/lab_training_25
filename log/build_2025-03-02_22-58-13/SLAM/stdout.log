@@ -1,0 +1,32 @@
+running develop
+running egg_info
+creating SLAM.egg-info
+writing SLAM.egg-info/PKG-INFO
+writing dependency_links to SLAM.egg-info/dependency_links.txt
+writing entry points to SLAM.egg-info/entry_points.txt
+writing requirements to SLAM.egg-info/requires.txt
+writing top-level names to SLAM.egg-info/top_level.txt
+writing manifest file 'SLAM.egg-info/SOURCES.txt'
+reading manifest file 'SLAM.egg-info/SOURCES.txt'
+writing manifest file 'SLAM.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kisangpark/lab_training/install/SLAM/lib/python3.10/site-packages/SLAM.egg-link (link to .)
+Installing path_follower script to /home/kisangpark/lab_training/install/SLAM/lib/SLAM
+Installing path_generator script to /home/kisangpark/lab_training/install/SLAM/lib/SLAM
+
+Installed /home/kisangpark/lab_training/build/SLAM
+running symlink_data
+creating /home/kisangpark/lab_training/install/SLAM/share/ament_index
+creating /home/kisangpark/lab_training/install/SLAM/share/ament_index/resource_index
+creating /home/kisangpark/lab_training/install/SLAM/share/ament_index/resource_index/packages
+symbolically linking /home/kisangpark/lab_training/build/SLAM/resource/SLAM -> /home/kisangpark/lab_training/install/SLAM/share/ament_index/resource_index/packages
+symbolically linking /home/kisangpark/lab_training/build/SLAM/package.xml -> /home/kisangpark/lab_training/install/SLAM/share/SLAM
+creating /home/kisangpark/lab_training/install/SLAM/share/SLAM/launch
+symbolically linking /home/kisangpark/lab_training/build/SLAM/launch/navigate.launch.py -> /home/kisangpark/lab_training/install/SLAM/share/SLAM/launch
+symbolically linking /home/kisangpark/lab_training/build/SLAM/launch/xacro_load.launch.py -> /home/kisangpark/lab_training/install/SLAM/share/SLAM/launch
+symbolically linking /home/kisangpark/lab_training/build/SLAM/launch/slam.launch.py -> /home/kisangpark/lab_training/install/SLAM/share/SLAM/launch
+creating /home/kisangpark/lab_training/install/SLAM/share/SLAM/xacro
+symbolically linking /home/kisangpark/lab_training/build/SLAM/xacro/lidar.xacro -> /home/kisangpark/lab_training/install/SLAM/share/SLAM/xacro
+symbolically linking /home/kisangpark/lab_training/build/SLAM/xacro/gazebo.xacro -> /home/kisangpark/lab_training/install/SLAM/share/SLAM/xacro
+symbolically linking /home/kisangpark/lab_training/build/SLAM/xacro/macros.xacro -> /home/kisangpark/lab_training/install/SLAM/share/SLAM/xacro
+symbolically linking /home/kisangpark/lab_training/build/SLAM/xacro/robot.xacro -> /home/kisangpark/lab_training/install/SLAM/share/SLAM/xacro

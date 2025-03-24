@@ -1,0 +1,5 @@
+  File "/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3/rrt_debug.py", line 221
+    cv2.line(rgb_img, new_node.point, nearest.point, (,255,0), 2)
+                                                      ^
+SyntaxError: invalid syntax
+

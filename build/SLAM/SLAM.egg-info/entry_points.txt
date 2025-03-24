@@ -1,0 +1,3 @@
+[console_scripts]
+path_follower = SLAM.path_follower:main
+path_generator = SLAM.path_generator:main

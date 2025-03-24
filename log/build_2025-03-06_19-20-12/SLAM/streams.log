@@ -1,0 +1,18 @@
+[4.644s] Invoking command in '/home/kisangpark/lab_training/build/SLAM': PYTHONPATH=/home/kisangpark/lab_training/build/SLAM/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/SLAM/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/SLAM/build --no-deps symlink_data
+[6.585s] running develop
+[8.134s] running egg_info
+[8.235s] writing SLAM.egg-info/PKG-INFO
+[8.236s] writing dependency_links to SLAM.egg-info/dependency_links.txt
+[8.238s] writing entry points to SLAM.egg-info/entry_points.txt
+[8.243s] writing requirements to SLAM.egg-info/requires.txt
+[8.243s] writing top-level names to SLAM.egg-info/top_level.txt
+[8.438s] reading manifest file 'SLAM.egg-info/SOURCES.txt'
+[8.444s] writing manifest file 'SLAM.egg-info/SOURCES.txt'
+[8.565s] running build_ext
+[8.565s] Creating /home/kisangpark/lab_training/install/SLAM/lib/python3.10/site-packages/SLAM.egg-link (link to .)
+[8.577s] Installing path_follower script to /home/kisangpark/lab_training/install/SLAM/lib/SLAM
+[8.581s] Installing path_generator script to /home/kisangpark/lab_training/install/SLAM/lib/SLAM
+[8.583s] 
+[8.584s] Installed /home/kisangpark/lab_training/build/SLAM
+[8.585s] running symlink_data
+[8.737s] Invoked command in '/home/kisangpark/lab_training/build/SLAM' returned '0': PYTHONPATH=/home/kisangpark/lab_training/build/SLAM/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/SLAM/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/SLAM/build --no-deps symlink_data

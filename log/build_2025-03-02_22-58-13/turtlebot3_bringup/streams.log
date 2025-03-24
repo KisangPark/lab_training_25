@@ -1,0 +1,49 @@
+[0.032s] Invoking command in '/home/kisangpark/lab_training/build/turtlebot3_bringup': AMENT_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_node:/home/kisangpark/lab_training/install/turtlebot3_msgs:/home/kisangpark/lab_training/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_node:/home/kisangpark/lab_training/install/turtlebot3_msgs:/home/kisangpark/lab_training/install/turtlebot3_description:/opt/ros/humble LD_LIBRARY_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/kisangpark/lab_training/src/turtlebot3/turtlebot3_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kisangpark/lab_training/install/turtlebot3_bringup
+[0.138s] -- The C compiler identification is GNU 11.4.0
+[0.263s] -- The CXX compiler identification is GNU 11.4.0
+[0.277s] -- Detecting C compiler ABI info
+[0.410s] -- Detecting C compiler ABI info - done
+[0.435s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.436s] -- Detecting C compile features
+[0.438s] -- Detecting C compile features - done
+[0.448s] -- Detecting CXX compiler ABI info
+[0.664s] -- Detecting CXX compiler ABI info - done
+[0.686s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.686s] -- Detecting CXX compile features
+[0.687s] -- Detecting CXX compile features - done
+[0.695s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.574s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.712s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.926s] -- Configuring done
+[1.948s] -- Generating done
+[1.953s] -- Build files have been written to: /home/kisangpark/lab_training/build/turtlebot3_bringup
+[1.967s] Invoked command in '/home/kisangpark/lab_training/build/turtlebot3_bringup' returned '0': AMENT_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_node:/home/kisangpark/lab_training/install/turtlebot3_msgs:/home/kisangpark/lab_training/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_node:/home/kisangpark/lab_training/install/turtlebot3_msgs:/home/kisangpark/lab_training/install/turtlebot3_description:/opt/ros/humble LD_LIBRARY_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/kisangpark/lab_training/src/turtlebot3/turtlebot3_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kisangpark/lab_training/install/turtlebot3_bringup
+[1.976s] Invoking command in '/home/kisangpark/lab_training/build/turtlebot3_bringup': AMENT_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_node:/home/kisangpark/lab_training/install/turtlebot3_msgs:/home/kisangpark/lab_training/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_node:/home/kisangpark/lab_training/install/turtlebot3_msgs:/home/kisangpark/lab_training/install/turtlebot3_description:/opt/ros/humble LD_LIBRARY_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/kisangpark/lab_training/build/turtlebot3_bringup -- -j2 -l2
+[2.058s] Invoked command in '/home/kisangpark/lab_training/build/turtlebot3_bringup' returned '0': AMENT_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_node:/home/kisangpark/lab_training/install/turtlebot3_msgs:/home/kisangpark/lab_training/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_node:/home/kisangpark/lab_training/install/turtlebot3_msgs:/home/kisangpark/lab_training/install/turtlebot3_description:/opt/ros/humble LD_LIBRARY_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/kisangpark/lab_training/build/turtlebot3_bringup -- -j2 -l2
+[2.066s] Invoking command in '/home/kisangpark/lab_training/build/turtlebot3_bringup': AMENT_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_node:/home/kisangpark/lab_training/install/turtlebot3_msgs:/home/kisangpark/lab_training/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_node:/home/kisangpark/lab_training/install/turtlebot3_msgs:/home/kisangpark/lab_training/install/turtlebot3_description:/opt/ros/humble LD_LIBRARY_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/kisangpark/lab_training/build/turtlebot3_bringup
+[2.091s] -- Install configuration: ""
+[2.091s] -- Execute custom install script
+[2.094s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/robot.launch.py
+[2.122s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/rviz2.launch.py
+[2.140s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_state_publisher.launch.py
+[2.158s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/param/burger.yaml
+[2.170s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/param/waffle.yaml
+[2.180s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/param/waffle_pi.yaml
+[2.199s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/script/99-turtlebot3-cdc.rules
+[2.211s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/script/create_udev_rules
+[2.222s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/ament_index/resource_index/package_run_dependencies/turtlebot3_bringup
+[2.233s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/ament_index/resource_index/parent_prefix_path/turtlebot3_bringup
+[2.249s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/ament_prefix_path.sh
+[2.271s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/ament_prefix_path.dsv
+[2.299s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/path.sh
+[2.322s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/path.dsv
+[2.341s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.bash
+[2.366s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.sh
+[2.395s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.zsh
+[2.421s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.dsv
+[2.450s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/package.dsv
+[2.476s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/ament_index/resource_index/packages/turtlebot3_bringup
+[2.493s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig.cmake
+[2.527s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig-version.cmake
+[2.563s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_bringup/share/turtlebot3_bringup/package.xml
+[2.597s] Invoked command in '/home/kisangpark/lab_training/build/turtlebot3_bringup' returned '0': AMENT_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_node:/home/kisangpark/lab_training/install/turtlebot3_msgs:/home/kisangpark/lab_training/install/turtlebot3_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_node:/home/kisangpark/lab_training/install/turtlebot3_msgs:/home/kisangpark/lab_training/install/turtlebot3_description:/opt/ros/humble LD_LIBRARY_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/kisangpark/lab_training/build/turtlebot3_bringup

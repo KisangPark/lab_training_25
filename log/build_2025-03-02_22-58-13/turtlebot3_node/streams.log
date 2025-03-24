@@ -1,0 +1,86 @@
+[0.073s] Invoking command in '/home/kisangpark/lab_training/build/turtlebot3_node': AMENT_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/kisangpark/lab_training/src/turtlebot3/turtlebot3_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kisangpark/lab_training/install/turtlebot3_node
+[0.299s] -- The C compiler identification is GNU 11.4.0
+[0.521s] -- The CXX compiler identification is GNU 11.4.0
+[0.579s] -- Detecting C compiler ABI info
+[0.768s] -- Detecting C compiler ABI info - done
+[0.789s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.790s] -- Detecting C compile features
+[0.795s] -- Detecting C compile features - done
+[0.807s] -- Detecting CXX compiler ABI info
+[1.023s] -- Detecting CXX compiler ABI info - done
+[1.050s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.052s] -- Detecting CXX compile features
+[1.053s] -- Detecting CXX compile features - done
+[1.095s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.452s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.697s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.847s] -- Found dynamixel_sdk: 3.7.60 (/opt/ros/humble/share/dynamixel_sdk/cmake)
+[2.871s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[3.143s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.172s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.216s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.335s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.412s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.558s] -- Found message_filters: 4.3.5 (/opt/ros/humble/share/message_filters/cmake)
+[3.849s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.867s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[4.293s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[4.389s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.506s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.556s] -- Looking for pthread.h
+[4.764s] -- Looking for pthread.h - found
+[4.764s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.931s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.931s] -- Found Threads: TRUE  
+[5.095s] -- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+[5.186s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[5.266s] -- Found std_srvs: 4.2.4 (/opt/ros/humble/share/std_srvs/cmake)
+[5.335s] -- Found tf2: 0.25.8 (/opt/ros/humble/share/tf2/cmake)
+[5.374s] -- Found tf2_ros: 0.25.8 (/opt/ros/humble/share/tf2_ros/cmake)
+[5.821s] -- Found turtlebot3_msgs: 2.2.3 (/home/kisangpark/lab_training/install/turtlebot3_msgs/share/turtlebot3_msgs/cmake)
+[6.570s] -- Configuring done
+[6.774s] -- Generating done
+[6.800s] -- Build files have been written to: /home/kisangpark/lab_training/build/turtlebot3_node
+[6.828s] Invoked command in '/home/kisangpark/lab_training/build/turtlebot3_node' returned '0': AMENT_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/kisangpark/lab_training/src/turtlebot3/turtlebot3_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kisangpark/lab_training/install/turtlebot3_node
+[6.834s] Invoking command in '/home/kisangpark/lab_training/build/turtlebot3_node': AMENT_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/kisangpark/lab_training/build/turtlebot3_node -- -j2 -l2
+[6.956s] [  7%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/devices/motor_power.cpp.o[0m
+[19.293s] [ 14%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/devices/sound.cpp.o[0m
+[32.196s] [ 21%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/devices/reset.cpp.o[0m
+[45.501s] [ 28%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/diff_drive_controller.cpp.o[0m
+[54.934s] [ 35%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/dynamixel_sdk_wrapper.cpp.o[0m
+[56.328s] [ 42%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/odometry.cpp.o[0m
+[98.135s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/turtlebot3.cpp.o[0m
+[129.286s] [ 57%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/battery_state.cpp.o[0m
+[138.858s] [ 64%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/imu.cpp.o[0m
+[140.894s] [ 71%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/joint_state.cpp.o[0m
+[149.825s] [ 78%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/sensor_state.cpp.o[0m
+[159.327s] [ 85%] [32m[1mLinking CXX static library libturtlebot3_node_lib.a[0m
+[160.521s] [ 85%] Built target turtlebot3_node_lib
+[160.581s] [ 92%] [32mBuilding CXX object CMakeFiles/turtlebot3_ros.dir/src/node_main.cpp.o[0m
+[169.439s] [100%] [32m[1mLinking CXX executable turtlebot3_ros[0m
+[173.365s] [100%] Built target turtlebot3_ros
+[173.406s] Invoked command in '/home/kisangpark/lab_training/build/turtlebot3_node' returned '0': AMENT_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/kisangpark/lab_training/build/turtlebot3_node -- -j2 -l2
+[173.412s] Invoking command in '/home/kisangpark/lab_training/build/turtlebot3_node': AMENT_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/kisangpark/lab_training/build/turtlebot3_node
+[173.434s] -- Install configuration: ""
+[173.437s] -- Execute custom install script
+[173.440s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/param/burger.yaml
+[173.466s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/param/waffle.yaml
+[173.494s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/param/waffle_pi.yaml
+[173.518s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/lib/turtlebot3_node/turtlebot3_ros
+[173.539s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_node
+[173.555s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_node
+[173.580s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/environment/ament_prefix_path.sh
+[173.607s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/environment/ament_prefix_path.dsv
+[173.629s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/environment/path.sh
+[173.645s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/environment/path.dsv
+[173.662s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/local_setup.bash
+[173.679s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/local_setup.sh
+[173.703s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/local_setup.zsh
+[173.717s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/local_setup.dsv
+[173.728s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/package.dsv
+[173.745s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/ament_index/resource_index/packages/turtlebot3_node
+[173.765s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[173.782s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/cmake/turtlebot3_nodeConfig.cmake
+[173.811s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/cmake/turtlebot3_nodeConfig-version.cmake
+[173.826s] -- Symlinking: /home/kisangpark/lab_training/install/turtlebot3_node/share/turtlebot3_node/package.xml
+[173.844s] Invoked command in '/home/kisangpark/lab_training/build/turtlebot3_node' returned '0': AMENT_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/kisangpark/lab_training/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/kisangpark/lab_training/build/turtlebot3_node

@@ -1,0 +1,20 @@
+[8.508s] Invoking command in '/home/kisangpark/lab_training/build/turtlebot3_example': CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:/home/kisangpark/lab_training/install/turtlebot3:/home/kisangpark/lab_training/install/turtlebot3_simulations:/home/kisangpark/lab_training/install/turtlebot3_bringup:/home/kisangpark/lab_training/install/turtlebot3_node:/home/kisangpark/lab_training/install/turtlebot3_navigation2:/home/kisangpark/lab_training/install/turtlebot3_fake_node:/home/kisangpark/lab_training/install/turtlebot3_gazebo:/home/kisangpark/lab_training/install/turtlebot3_description:/home/kisangpark/lab_training/install/turtlebot3_cartographer PYTHONPATH=/home/kisangpark/lab_training/build/turtlebot3_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/turtlebot3_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/turtlebot3_example/build --no-deps symlink_data
+[10.635s] running develop
+[13.402s] running egg_info
+[13.532s] writing turtlebot3_example.egg-info/PKG-INFO
+[13.541s] writing dependency_links to turtlebot3_example.egg-info/dependency_links.txt
+[13.541s] writing entry points to turtlebot3_example.egg-info/entry_points.txt
+[13.549s] writing requirements to turtlebot3_example.egg-info/requires.txt
+[13.549s] writing top-level names to turtlebot3_example.egg-info/top_level.txt
+[13.901s] reading manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[13.912s] writing manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[14.211s] running build_ext
+[14.211s] Creating /home/kisangpark/lab_training/install/turtlebot3_example/lib/python3.10/site-packages/turtlebot3-example.egg-link (link to .)
+[14.223s] Installing turtlebot3_obstacle_detection script to /home/kisangpark/lab_training/install/turtlebot3_example/lib/turtlebot3_example
+[14.225s] Installing turtlebot3_patrol_client script to /home/kisangpark/lab_training/install/turtlebot3_example/lib/turtlebot3_example
+[14.232s] Installing turtlebot3_patrol_server script to /home/kisangpark/lab_training/install/turtlebot3_example/lib/turtlebot3_example
+[14.233s] Installing turtlebot3_position_control script to /home/kisangpark/lab_training/install/turtlebot3_example/lib/turtlebot3_example
+[14.241s] 
+[14.242s] Installed /home/kisangpark/lab_training/build/turtlebot3_example
+[14.243s] running symlink_data
+[14.573s] Invoked command in '/home/kisangpark/lab_training/build/turtlebot3_example' returned '0': CMAKE_PREFIX_PATH=/home/kisangpark/lab_training/install/turtlebot3_msgs:/home/kisangpark/lab_training/install/turtlebot3:/home/kisangpark/lab_training/install/turtlebot3_simulations:/home/kisangpark/lab_training/install/turtlebot3_bringup:/home/kisangpark/lab_training/install/turtlebot3_node:/home/kisangpark/lab_training/install/turtlebot3_navigation2:/home/kisangpark/lab_training/install/turtlebot3_fake_node:/home/kisangpark/lab_training/install/turtlebot3_gazebo:/home/kisangpark/lab_training/install/turtlebot3_description:/home/kisangpark/lab_training/install/turtlebot3_cartographer PYTHONPATH=/home/kisangpark/lab_training/build/turtlebot3_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/turtlebot3_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/turtlebot3_example/build --no-deps symlink_data

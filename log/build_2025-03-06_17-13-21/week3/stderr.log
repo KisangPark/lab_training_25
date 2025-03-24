@@ -1,0 +1,5 @@
+  File "/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3/RRT_star_2.py", line 284
+    except:
+    ^^^^^^
+SyntaxError: invalid syntax
+

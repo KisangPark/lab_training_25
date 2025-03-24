@@ -1,0 +1,34 @@
+[1.667s] Invoking command in '/home/kisangpark/lab_training/build/SLAM': PYTHONPATH=/home/kisangpark/lab_training/build/SLAM/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/SLAM/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/SLAM/build --no-deps symlink_data
+[2.575s] running develop
+[3.321s] running egg_info
+[3.322s] creating SLAM.egg-info
+[3.369s] writing SLAM.egg-info/PKG-INFO
+[3.373s] writing dependency_links to SLAM.egg-info/dependency_links.txt
+[3.375s] writing entry points to SLAM.egg-info/entry_points.txt
+[3.376s] writing requirements to SLAM.egg-info/requires.txt
+[3.377s] writing top-level names to SLAM.egg-info/top_level.txt
+[3.377s] writing manifest file 'SLAM.egg-info/SOURCES.txt'
+[3.484s] reading manifest file 'SLAM.egg-info/SOURCES.txt'
+[3.489s] writing manifest file 'SLAM.egg-info/SOURCES.txt'
+[3.604s] running build_ext
+[3.606s] Creating /home/kisangpark/lab_training/install/SLAM/lib/python3.10/site-packages/SLAM.egg-link (link to .)
+[3.608s] Installing path_follower script to /home/kisangpark/lab_training/install/SLAM/lib/SLAM
+[3.609s] Installing path_generator script to /home/kisangpark/lab_training/install/SLAM/lib/SLAM
+[3.610s] 
+[3.610s] Installed /home/kisangpark/lab_training/build/SLAM
+[3.611s] running symlink_data
+[3.611s] creating /home/kisangpark/lab_training/install/SLAM/share/ament_index
+[3.613s] creating /home/kisangpark/lab_training/install/SLAM/share/ament_index/resource_index
+[3.613s] creating /home/kisangpark/lab_training/install/SLAM/share/ament_index/resource_index/packages
+[3.613s] symbolically linking /home/kisangpark/lab_training/build/SLAM/resource/SLAM -> /home/kisangpark/lab_training/install/SLAM/share/ament_index/resource_index/packages
+[3.614s] symbolically linking /home/kisangpark/lab_training/build/SLAM/package.xml -> /home/kisangpark/lab_training/install/SLAM/share/SLAM
+[3.615s] creating /home/kisangpark/lab_training/install/SLAM/share/SLAM/launch
+[3.615s] symbolically linking /home/kisangpark/lab_training/build/SLAM/launch/navigate.launch.py -> /home/kisangpark/lab_training/install/SLAM/share/SLAM/launch
+[3.616s] symbolically linking /home/kisangpark/lab_training/build/SLAM/launch/xacro_load.launch.py -> /home/kisangpark/lab_training/install/SLAM/share/SLAM/launch
+[3.617s] symbolically linking /home/kisangpark/lab_training/build/SLAM/launch/slam.launch.py -> /home/kisangpark/lab_training/install/SLAM/share/SLAM/launch
+[3.618s] creating /home/kisangpark/lab_training/install/SLAM/share/SLAM/xacro
+[3.618s] symbolically linking /home/kisangpark/lab_training/build/SLAM/xacro/lidar.xacro -> /home/kisangpark/lab_training/install/SLAM/share/SLAM/xacro
+[3.619s] symbolically linking /home/kisangpark/lab_training/build/SLAM/xacro/gazebo.xacro -> /home/kisangpark/lab_training/install/SLAM/share/SLAM/xacro
+[3.621s] symbolically linking /home/kisangpark/lab_training/build/SLAM/xacro/macros.xacro -> /home/kisangpark/lab_training/install/SLAM/share/SLAM/xacro
+[3.623s] symbolically linking /home/kisangpark/lab_training/build/SLAM/xacro/robot.xacro -> /home/kisangpark/lab_training/install/SLAM/share/SLAM/xacro
+[3.719s] Invoked command in '/home/kisangpark/lab_training/build/SLAM' returned '0': PYTHONPATH=/home/kisangpark/lab_training/build/SLAM/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/SLAM/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/SLAM/build --no-deps symlink_data

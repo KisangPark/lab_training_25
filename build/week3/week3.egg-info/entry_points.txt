@@ -1,0 +1,6 @@
+[console_scripts]
+pure_pursuit = week3.pure_pursuit:main
+rrt_debug = week3.rrt_debug:main
+rrt_star = week3.RRT_star:main
+rrt_star_2 = week3.RRT_star_2:main
+save_costmap = week3.save_costmap:main

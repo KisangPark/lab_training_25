@@ -1,0 +1,20 @@
+[8.502s] Invoking command in '/home/kisangpark/lab_training/build/week3': PYTHONPATH=/home/kisangpark/lab_training/build/week3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/week3/build --no-deps symlink_data
+[13.294s] running develop
+[15.173s] running egg_info
+[15.263s] writing week3.egg-info/PKG-INFO
+[15.265s] writing dependency_links to week3.egg-info/dependency_links.txt
+[15.268s] writing entry points to week3.egg-info/entry_points.txt
+[15.270s] writing requirements to week3.egg-info/requires.txt
+[15.271s] writing top-level names to week3.egg-info/top_level.txt
+[15.482s] reading manifest file 'week3.egg-info/SOURCES.txt'
+[15.482s] writing manifest file 'week3.egg-info/SOURCES.txt'
+[15.633s] running build_ext
+[15.634s] Creating /home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages/week3.egg-link (link to .)
+[15.640s] Installing pure_pursuit script to /home/kisangpark/lab_training/install/week3/lib/week3
+[15.648s] Installing rrt_star script to /home/kisangpark/lab_training/install/week3/lib/week3
+[15.650s] Installing rrt_star_2 script to /home/kisangpark/lab_training/install/week3/lib/week3
+[15.650s] Installing save_costmap script to /home/kisangpark/lab_training/install/week3/lib/week3
+[15.653s] 
+[15.653s] Installed /home/kisangpark/lab_training/build/week3
+[15.656s] running symlink_data
+[15.819s] Invoked command in '/home/kisangpark/lab_training/build/week3' returned '0': PYTHONPATH=/home/kisangpark/lab_training/build/week3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kisangpark/lab_training/install/week3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kisangpark/lab_training/build/week3/build --no-deps symlink_data

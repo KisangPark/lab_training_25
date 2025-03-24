@@ -1,0 +1,1 @@
+/home/kisangpark/lab_training/build/SLAM/launch/navigate.launch.py
